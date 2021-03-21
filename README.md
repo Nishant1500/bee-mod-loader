@@ -20,7 +20,7 @@ const BeeModParser = require('bee-mod-parser')
 
 ## API
 
-### BeeModParser.readFabricMod(mod)
+### Fabric Mod Metadata
 
 #### mod
 Path Where The Fabric Mod Is Located
@@ -36,6 +36,26 @@ const path = "mod" //Where The Mod Is Located..
 const fabricMetaData = await BeeModParser.readFabricMod(mod);
 
 console.log(fabricMetaData);
+// Console Output
+// {id:"xxxxxx",name:"xxxx",.....}
+```
+
+### Forge Mod Metadata
+
+#### mod
+Path Where The Forge Mod Is Located
+
+Type: `string`
+
+#### Example
+
+```js
+const BeeModParser = require('bee-mod-parser')
+
+const path = "mod" //Where The Mod Is Located..
+const forgeMetaData = await BeeModParser.readForgeMod(mod);
+
+console.log(forgeMetaData);
 // Console Output
 // {id:"xxxxxx",name:"xxxx",.....}
 ```
