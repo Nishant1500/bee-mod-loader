@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.readFabricMod = void 0;
+exports.readFabricMod = undefined;
 const system_1 = require("@xmcl/system");
 /**
  * Read fabric mod metadata json from a jar file or a directory
