@@ -1,13 +1,10 @@
 {
   "name": "bee-mod-parser",
-  "version": "1.0.0",
+  "version": "1.2.2",
   "main": "./dist/index.js",
-  "description": "Minecraft Mod parser. Provides the utilities to parse forge/liteloader/fabric mod metadata.",
+  "description": "A Node.js Package To Get Metadata Of Fabric/Forge/Liteloader Mods. Used By Bee Launcher.",
   "engines": {
     "node": ">=10.0"
-  },
-  "publishConfig": {
-    "access": "public"
   },
   "dependencies": {
     "@iarna/toml": "2.2.3",
