@@ -28,7 +28,7 @@
     "launcher-module"
   ],
   "script": {
-    "start": "node ./dir/index.js"
+    "start": "node ./ndex.js"
   },
   "license": "none",
   "bugs": {
