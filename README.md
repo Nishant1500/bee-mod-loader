@@ -10,6 +10,7 @@ Want To Contact Me?
 
 [![NPM Badge](https://nodei.co/npm/bee-mod-parser.png)](https://npmjs.com/package/bee-mod-parser)
 <br>OH BOI THATS A LOT OF DOWNLOADS IN ONE DAY!!!! ***85 ARE U KIDDING ME?***
+<br><img src="https://img.shields.io/npm/dw/bee-mod-parser?style=for-the-badge"/>
 
 ### Most Reported Errors :)
 Got Lost In `await is only valid in async functions and the top level bodies of modules` Error?
