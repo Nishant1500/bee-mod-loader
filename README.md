@@ -1,4 +1,4 @@
-# Bee Mod Parser
+# Bee Mod Parser [Test]
 
 A Node.js Package To Get Metadata Of Fabric/Forge/Liteloader Mods. Used By Bee Launcher.
 
