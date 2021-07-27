@@ -2,6 +2,8 @@
 
 A Node.js Package To Get Metadata Of Fabric/Forge/Liteloader Mods. Used By Bee Launcher.
 
+Typescript NPM Package: [@xmcl/mod-parser](https://www.npmjs.com/package/@xmcl/mod-parser)
+
 Want To Contact Me?
 <br>Discord: **Nishant1500#9195**
 <br>You Can Also Mention Me In **Disussion Tab** Of The Repository :)
